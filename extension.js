@@ -57,4 +57,6 @@ function disable() {
         lbl.disconnect(signalHandlerID);
         lbl.set_text(last);
     }
+    Main.panel.statusArea['activities'].container.show();
+    Main.panel.statusArea['appMenu'].container.show();
 }
