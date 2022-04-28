@@ -2,7 +2,7 @@
 Diese Erweiterung stellt einige Anpassungen für das Gnome Panel bereit, z.B die Anpassung des Uhrzeit Formats.
 
 ## Funktionen
-- Anpassen des Uhrzeitformats im Panel
+- Anpassen des Uhrzeitformats im Panel auf: *Sonntag, 07.11.2021 - 17:20:00*
 - Entfernen der Aktivitäten Taste
 - Entfernen des Programm-Menüs
 
